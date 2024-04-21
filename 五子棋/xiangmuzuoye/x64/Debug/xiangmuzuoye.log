@@ -1,0 +1,3 @@
+﻿  五子棋.cpp
+E:\VS项目\xiangmuzuoye\xiangmuzuoye\五子棋.cpp(202,1): warning C4715: “isWin”: 不是所有的控件路径都返回值
+  xiangmuzuoye.vcxproj -> E:\VS项目\xiangmuzuoye\x64\Debug\xiangmuzuoye.exe
